@@ -74,4 +74,5 @@ Register number: 212224220023
 ![443730164-ab3ac907-a4f2-4d44-808d-fd5720e096dd](https://github.com/user-attachments/assets/240a8529-d7bc-4e5f-81a1-2088012b95e8)
 
 **RESULTS**
+
  Thus,the JK flipflop using verilog and validating their functionality using their functional tables is been implemented and executed successfully.
